@@ -17,7 +17,7 @@ const Form = () => {
              <input type="password" placeholder='Enter your Password' name='password' ></input>
         </div>
         <div>
-            <button type='submit'>Submit</button>
+            <button type='submit'>Add form</button>
         </div>
     </form>
     </>
